@@ -2,7 +2,7 @@
 
 The PDF contains the supplementary material for our paper "Recurrent Stacking of Layers for Compact Neural Machine Translation Models" which was accepted in AAAI 2019. In this paper we showed that reusing parameters by stacking the same layer on top of itself N-1 times leads to a model whose translation quality approaches that of a model where N independent layers are stacked. By doing so, we lose about 1 BLEU point compared to a vanilla NMT model but reduce the model size by approximately 60%.
 
-The main paper can be found at http://paraphrasing.org/~fujita/publications/coauthor/dabre-AAAI2019.pdf
+The main paper can be found at http://paraphrasing.org/~fujita/publications/coauthor/dabre-AAAI2019.pdf or at https://www.aaai.org/Papers/AAAI/2019/AAAI-DabreR.2192.pdf
 The poster can be found at http://paraphrasing.org/~fujita/publications/coauthor/dabre-AAAI2019-poster.pdf
 
 If you use the ideas presented in the main paper, poster or the supplementary material then kindly cite the following:
